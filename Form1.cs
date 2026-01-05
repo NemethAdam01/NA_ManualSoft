@@ -36,7 +36,6 @@ namespace NA_ManualSoft
             {
                 cb_selector.Items.Add(file.Name);
             }
-            pdfReader.LoadFile("manual_monitor.pdf");
 
 
         }
